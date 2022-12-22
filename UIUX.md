@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, We are e-Designing and Marketing </h1>
-<h3 align="center">Front End Development</h3>
+<h3 align="center">User Interface and User Experience Development</h3>
 
-## <h3> 💯 #100DaysOfFrontEndDevelopment </h3>
+## <h3> 💯 #100DaysOfUIUX </h3>
 <p> This is an intitiation which is for freshers and any person who wishes to learn any technology with a roadmap, resources, practical experience, and guidence/mentorship. </p>
 
 ## <h3> Mentors Details </h3>
