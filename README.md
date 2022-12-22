@@ -1,36 +1,36 @@
-# Resources
+<h1 align="center">Hello 👋, We are e-Designing and Marketing </h1>
+<h3 align="center">Technical Community of Hyderabad</h3>
 
-Hello Community Members of e-Designing and Marketing
+<h3> 💯 #100DaysOfTechnology </h3>
+<p> This is an intitiation which is for freshers and any person who wishes to learn any technology with a roadmap, resources, practical experience, and guidence/mentorship. </p>
 
-These are the resources to get you started on any technology from stratch.
+<h5> Advantages </h5>
+<li> Proper Roadmap with resources. </li>
+<li> Guidence and Mentorship Available. </li>
+<li> Goodies after achieving Milestones. </li>
+<li> Work as a team, network with others. </li>
+<li> Free. </li>
 
-You will find all the technologies, and if you find any difficulty of understanding the resources or having doubts where to start - 
+<h5> We are starting this with 7 Technologies </h5>
+<li> 🔖 User Interface and User Expereince </li>
+<li> 💻 Front End Development </li>
+<li> ⚙️ Back End Development </li>
+<li> 📱 Application Development - Flutter </li>
+<li> 🛡️ Cybersecurity </li>
+<li> 📈 Digital Marketing </li>
+<li> 📈 Roblox - Game Development </li>
 
-Contact the mentors and leads of the technology,
+<h3> Steps to Start - </h3> 
+<ol><li> Choose the Technology. </li>
+<li> Start The Challange. </li>
+<li> Post Updates on Linkedin/Twiiter/Disord on a regular basis. </li>
+  <dl> Format</dl>
+  <dl> Day X of #100DaysOfTechnology </dl>
+  ![](./Template.png)
+  <dl> You can use the same content in Twitter or Discord. </dl>
+</ol>
 
-Graphic Designing - 
-  Y - Y - Y
-  Resource Repository Link
-
-UI/UX -
-  Riktha Reddy - Y - Y
-  Y - Y - Y
-  Resource Repository Link
-
-Web Dev - 
-  Farhan - COntact Number - Linked In
-  Y - Y- Y
-  Resource Repository Link
-  
-App Dev - 
-  Nishanth Gosh - Contact Number - Linkedin 
-  Dantu Sarat - Y - Y
-  Resource Repository Link
-  
-Blockchain - 
-  Nayan - Y - Y
-  Resource Repository Link
-  
-All Technologies
-  
-  
+<h3 align="left">Connect with Us:</h3>
+<p align="left">
+<a href="https://instagram.com/abhishek.nagaraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.instagram.com/abhishek.nagaraja" height="30" width="40" /></a>
+</p>
