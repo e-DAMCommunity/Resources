@@ -1,17 +1,35 @@
-<h1 align="center">Hi 👋, I'm Abhishek Nagaraja</h1>
-<h3 align="center">Community Lead of e-Designing and Marketing</h3>
+<h1 align="center">Hello 👋, We are e-Designing and Marketing </h1>
+<h3 align="center">Technical Community of Hyderabad</h3>
 
-- 🔭 I’m currently working on **VDIC**
+<h3> 💯 #100DaysOfTechnology </h3>
+<p> This is an intitiation which is for freshers and any person who wishes to learn any technology with a roadmap, resources, practical experience, and guidence/mentorship. </p>
 
-- 🌱 I’m currently learning **Front end, AWS Cloud, Business Analytics**
+<h5> Advantages </h5>
+<li> Proper Roadmap with resources. </li>
+<li> Guidence and Mentorship Available. </li>
+<li> Goodies after achieving Milestones. </li>
+<li> Work as a team, network with others. </li>
+<li> Free. </li>
 
-- 👯 I’m looking to collaborate on **e-DAM Space**
+<h5> We are starting this with 7 Technologies </h5>
+<li> 🔖 User Interface and User Expereince </li>
+<li> 💻 Front End Development </li>
+<li> ⚙️ Back End Development </li>
+<li> 📱 Application Development - Flutter </li>
+<li> 🛡️ Cybersecurity </li>
+<li> 📈 Digital Marketing </li>
+<li> 📈 Roblox - Game Development </li>
 
-- 🤝 I’m looking for help with **e-DAM Space**
+<h3> Steps to Start - </h3> 
+<ol><li> Choose the Technology. </li>
+<li> Start The Challange. </li>
+<li> Post Updates on Linkedin/Twiiter/Disord on a regular basis. </li>
+  <dl> Format</dl>
+  <dl> Day X of #100DaysOfTechnology </dl>
+  ![image](https://user-images.githubusercontent.com/41541163/209078766-4efa7130-1580-46c9-9064-9df588c24840.png)
 
-- 💬 Ask me about **e-DAM Community, Product Development**
-
-- 📫 How to reach me **abhishek@edam.tech**
+  <dl> You can use the same content in Twitter or Discord. </dl>
+</ol>
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1buT8LwF-NshUnNp7VULfbzytJQJDLbyw/view?usp=share_link](https://drive.google.com/file/d/1buT8LwF-NshUnNp7VULfbzytJQJDLbyw/view?usp=share_link)
 
@@ -19,6 +37,3 @@
 <p align="left">
 <a href="https://instagram.com/abhishek.nagaraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.instagram.com/abhishek.nagaraja" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
