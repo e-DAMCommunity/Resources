@@ -25,12 +25,15 @@
 <li> Start The Challange. </li>
 <li> Post Updates on Linkedin/Twiiter/Disord on a regular basis. </li>
   <dl> Format</dl>
-  <dl> Day X of #100DaysOfTechnology </dl>
- ![Template](https://user-images.githubusercontent.com/41541163/209081381-88013408-f550-4bcb-9d00-0e94179f950f.png)
+ <img src="https://user-images.githubusercontent.com/41541163/209081381-88013408-f550-4bcb-9d00-0e94179f950f.png">
   <dl> You can use the same content in Twitter or Discord. </dl>
+  <li> Use the Hashtags - #Learnwithedam #Growwithedam #Networkwithedam </li>
+  <dl> With this Hashtags, you can check out the number of other developers learning the technology with you. </dl>
 </ol>
 
 <h3 align="left">Connect with Us:</h3>
 <p align="left">
 <a href="https://instagram.com/abhishek.nagaraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.instagram.com/abhishek.nagaraja" height="30" width="40" /></a>
+<a href="https://edam.tech/telegram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="https://edam.tech/telegram" height="30" width="40" /></a>
+<a href="https://edam.tech/whatsapp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="www.instagram.com/abhishek.nagaraja" height="30" width="40" /></a>
 </p>
