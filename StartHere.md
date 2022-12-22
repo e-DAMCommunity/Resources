@@ -27,11 +27,8 @@
   <dl> Format</dl>
   <dl> Day X of #100DaysOfTechnology </dl>
   ![](./Template.png)
-
   <dl> You can use the same content in Twitter or Discord. </dl>
 </ol>
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1buT8LwF-NshUnNp7VULfbzytJQJDLbyw/view?usp=share_link](https://drive.google.com/file/d/1buT8LwF-NshUnNp7VULfbzytJQJDLbyw/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
