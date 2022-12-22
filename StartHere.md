@@ -26,7 +26,7 @@
 <li> Post Updates on Linkedin/Twiiter/Disord on a regular basis. </li>
   <dl> Format</dl>
   <dl> Day X of #100DaysOfTechnology </dl>
-  ![image](https://user-images.githubusercontent.com/41541163/209078766-4efa7130-1580-46c9-9064-9df588c24840.png)
+  ![](./Template.png)
 
   <dl> You can use the same content in Twitter or Discord. </dl>
 </ol>
