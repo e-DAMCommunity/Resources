@@ -40,7 +40,9 @@
 
 <h3 align="left">Connect with Us:</h3>
 <p align="left">
-<a href="https://instagram.com/abhishek.nagaraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.instagram.com/abhishek.nagaraja" height="30" width="40" /></a>
-<a href="https://edam.tech/telegram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="https://edam.tech/telegram" height="30" width="40" /></a>
-<a href="https://edam.tech/whatsapp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="www.instagram.com/abhishek.nagaraja" height="30" width="40" /></a>
+<a href="https://edam.tech/discord" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" alt="https://edam.tech/discord" height="30" width="30" /></a>
+<a href="https://instagram.com/edam.community" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" width="30" height="30" alt="https://instagram.com/edam.community" title="" class="img-small"></a>
+<a href="https://edam.tech/telegram" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" width="30" height="30" alt="https://edam.tech/telegram" title="Telegram free icon"></a>
+<a href="https://edam.tech/linkedin" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="https://edam.tech/linkedin" height="30" width="30" /></a>
+<a href="https://edam.tech/whatsapp" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="https://edam.tech/whatsapp" height="30" width="30" /></a>
 </p>
