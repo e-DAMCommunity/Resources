@@ -11,6 +11,13 @@
 <li> Work as a team, network with others. </li>
 <li> Free. </li>
 
+## <h5> Why Should you do it..? </h5>
+<li> Proper Roadmap with resources. </li>
+<li> Guidence and Mentorship Available. </li>
+<li> Goodies after achieving Milestones. </li>
+<li> Work as a team, network with others. </li>
+<li> Free. </li>
+
 ## <h5> We are starting this with 7 Technologies </h5>
 <li> 🔖 User Interface and User Expereince </li>
 <li> 💻 Front End Development </li>
