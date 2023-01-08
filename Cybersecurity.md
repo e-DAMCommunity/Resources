@@ -19,8 +19,13 @@ Before you begin with the roadmap, please make sure you are enrolled in one of t
 
 ## Day 1:
 
- - Begin by installing Kali linux and setting up the environment. 
-		 - Dubbed the "Swiss Army Knife" of hackers, Kali Linux is an Advanced Penetration Testing Linux distribution used for Penetration Testing, Ethical Hacking and network security assessments.
+ Begin by installing Kali linux and setting up the environment. 
+ 
+
+ - Dubbed the "Swiss Army Knife" of hackers, Kali Linux is an Advanced
+   Penetration Testing Linux distribution used for Penetration Testing,
+   Ethical Hacking and network security assessments.
+
 		
  - Use one of the following methods to set your Kali Environment
 
@@ -51,8 +56,14 @@ Before you begin with the roadmap, please make sure you are enrolled in one of t
 ## Days 11-20:
 
  
-- Learn about cybersecurity fundamentals, including common attacks and vulnerabilities, and how to protect against them. You can use resources such as the SANS Institute's "Intro to Cybersecurity" course and the "Cybersecurity Fundamentals" course on edX to learn these concepts.
-
+ Learn about cybersecurity fundamentals, including common attacks and vulnerabilities, and how to protect against them. You can use resources such as the SANS Institute's "Intro to Cybersecurity" course and the "Cybersecurity Fundamentals" course on edX to learn these concepts.
+ - Courseware:
+	 - [Introduction To Cybersecurity](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-cyber-security?career_path_id=119)
+	 - [Types of Cybersecurity](https://www.mygreatlearning.com/academy/learn-for-free/courses/types-of-cyber-security?career_path_id=119)
+	 - [Information Security](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-information-security?career_path_id=119)
+	  - [Cybersecurity Threats](https://www.mygreatlearning.com/academy/learn-for-free/courses/cyber-security-threats?career_path_id=119)
+	  - [Threats and Governance](https://www.mygreatlearning.com/academy/learn-for-free/courses/advanced-cyber-security-threats-and-governance?career_path_id=119)
+	  - [Firewall Basics](https://www.mygreatlearning.com/academy/learn-for-free/courses/firewall?career_path_id=119)
 
     
 
