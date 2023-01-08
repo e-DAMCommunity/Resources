@@ -3,14 +3,13 @@
 
 ## <h3> 💯 #100DaysOfCybersecurity </h3>
 <p> This is an intitiation which is for freshers and any person who wishes to learn any technology with a roadmap, resources, practical experience, and guidence/mentorship. </p>
+## Mentor Details:
 
-## <h3> Mentors Details </h3>
-<p> Feel Free to contact the mentors if you are in a JAM. </p>
-<li> Name : Vivekananda Gavini </li>
-<li> Email ID : vivek@edam.tech </li>
-<li> Contact Number :  </li>
-<li> Linkedin : [Vivekananda Gavini](https://linkedin.com/in/thevgavini)
-</li>
+ 1. Name:  **Vivekananda Gavini (eJPT, CC)**
+ 2. E-Mail: [vivek@edam.tech](mailto:vivek@edam.tech)
+ 3. LinkedIn: [Vivekananda Gavini](https://linkedin.com/in/thevgavini)
+ 4. Instagram: [vivekananda_gavini](https://instagram.com/vivekananda_gavini)
+
 
 ![With Great Power, Comes Great Responsibility!](https://i.imgur.com/kJm7aUG.png)
 
