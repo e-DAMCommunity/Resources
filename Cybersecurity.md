@@ -6,10 +6,11 @@
 
 ## <h3> Mentors Details </h3>
 <p> Feel Free to contact the mentors if you are in a JAM. </p>
-<li> Name : </li>
-<li> Email ID : </li>
-<li> Contact Number : </li>
-<li> Linkedin : </li>
+<li> Name : Vivekananda Gavini </li>
+<li> Email ID : vivek@edam.tech </li>
+<li> Contact Number :  </li>
+<li> Linkedin : [Vivekananda Gavini](https://linkedin.com/in/thevgavini)
+</li>
 
 ![With Great Power, Comes Great Responsibility!](https://i.imgur.com/kJm7aUG.png)
 
