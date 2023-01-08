@@ -3,8 +3,8 @@
 
 <h2 align="center"> Frontend Web Development </h2>
 
-**_#60DaysOfFrontendWebDev_**
-This is an initiation which is for freshers and any person who wishes to learn **_Frontend Web Development_** with a roadmap, resources, practical experience, and guidance/mentorship.
+**_#50DaysOfFrontendWebDev_**
+This is an initiation which is for freshers and any person who wishes to learn **_Frontend Web Development_** with a roadmap, resources, practical experience, and guidance/mentorship. This is a part of **_#100DaysofWebDevelopment_**
 
 ## Mentor Details
 **Name** : _Shakir Farhan_ , Full-Stack Web Developer.\
@@ -35,7 +35,7 @@ This is an initiation which is for freshers and any person who wishes to learn *
 **NOTE** : Choose one framework and try to learn about it maximum. Then if you're interested you can go with others too.
 
 ## Schedule & Resources
-### <u>*Day 1-5*</u>
+### <u>*Day 1-4*</u>
 ***HTML*** - HTML stands for Hypertext Markup Language and is used to structure content on the web. Uses Tags for creating content in web page.
 
 <img width="320px" height="350px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html">
@@ -66,7 +66,7 @@ This is an initiation which is for freshers and any person who wishes to learn *
 
 ---
 
-### <u>*Day 6-15*</u>
+### <u>*Day 5-14*</u>
 ***CSS*** - Cascading Style Sheets and is used to style web pages. It is a stylesheet language that is used to style the structure written in HTML. Using HTML Selectors.
 
 <img width="320px" height="350px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css">
@@ -112,7 +112,7 @@ Also,  Use browser's in-built dev tools for more easiness and debugging the code
 
 ---
 
-### <u>*Day 16-20*</u>
+### <u>*Day 15-17*</u>
 As of now you have some knowledge of HTML, CSS. Start building ***projects***. Initially you can take video references but later try to make your own projects and show case them with your fellow developers and take inputs from them and try to implement them by your next projects.
 
 ***Some HTML & CSS Projects Ideas:*** 
@@ -124,7 +124,7 @@ As of now you have some knowledge of HTML, CSS. Start building ***projects***. I
 
 ---
 
-### <u>*Day 21-35*</u>
+### <u>*Day 18-31*</u>
 Now, you have basic understanding of how to structure elements in web browser and styling them using HTML & CSS. Now it's time for Javascript (JS).
 
 ***Javascript*** - JavaScript is an object-oriented language that is commonly used in web development to create dynamic and interactive websites. It is often used alongside HTML and CSS to build web pages and web applications. 
@@ -168,7 +168,7 @@ Some of the main features of ES6 include :
 
 ---
 
-### <u>*Day  36-40*</u>
+### <u>*Day  32-34*</u>
 Now you will be having a complete understanding of how a website or web app is built. Now, try to built a project using HTML, CSS, JS. There are many cases where you may struct finding errors in your code. But, try fixing them take help of google and latest &nbsp;<a href="https://chat.openai.com/chat">chatGPT</a> .
 
 ***Here are some project ideas*** : 
@@ -181,7 +181,7 @@ Now you will be having a complete understanding of how a website or web app is b
 
 ---
 
-### <u>*Day 41-50*</u>
+### <u>*Day 35-44*</u>
 
 ***JS Frameworks*** 
 
@@ -204,10 +204,10 @@ and many....
 
 **Resources** : 
 1. Videos : \
+	<a href="https://www.youtube.com/watch?v=CynLOUL9vsU">Angular vs React - Which one should choose ?</a>\
 	<a href="https://www.youtube.com/watch?v=iZhV0bILFb0&list=PLnHJACx3NwAe-GJ4GfptzUs8g7lFhE9DV&index=1">React Tutorial - Codding Addict (English)</a>\
 	<a href="https://www.youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt">React Complete Tutorial - Codewithharry (Hindi)</a>\
 	<a href="https://www.youtube.com/watch?v=3qBXWUpoPHo">Angular Tutorial - freecodecamp.org (English)</a>\
-	<a href="https://www.youtube.com/watch?v=CynLOUL9vsU">Angular vs React - Which one should choose ?</a>\
 	<a href="https://www.youtube.com/playlist?list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f">Vue.js Complete Playlist - Codevolution</a>
 
 2. Official Documentations : \
@@ -220,7 +220,7 @@ and many....
 
 ---
 
-### <u>*Day 51-53*</u>
+### <u>*Day 45*</u>
 
 Here try to built a project using framework and necessary technologies you learned till now. And try hosting it in any free hosting services like : 
 1. <a href='https://www.netlify.com/'>Netlify</a>
@@ -231,7 +231,7 @@ Here try to built a project using framework and necessary technologies you learn
 
 ---
 
-### <u>*Day 54-60*</u>
+### <u>*Day 46-50*</u>
 
 ***CSS Frameworks*** 
 
