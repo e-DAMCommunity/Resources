@@ -20,7 +20,10 @@ Congratulations on choosing to go down the rabbit  hole that is cybersecurity. T
 
 > Energy and Persistence conquer all things
 
-Now, remember that good things take time. This roadmap has been very carefully curated to cover the most important topics in cybersecurity in general and penetration testing specifically. If at all it feels overwhelming during the progression, relax a bit and get back. Your hardwork will definitely pay off!
+Now, remember that good things take time. This roadmap has been very carefully curated to cover the most important topics in cybersecurity in general and penetration testing in specific. If at all it feels overwhelming during the progression, relax a bit and get back. Your hardwork will definitely pay off!
+
+Make sure you put this knowledge to lawful use. Any deviations would lead to severe punishments. 
+
 
 ## Pre-requisites
 Before you move forward with the roadmap, It is highly recommended that you enroll in the following course - [Zero to Mastery: Complete Ethical Hacking Bootcamp](https://www.udemy.com/course/complete-ethical-hacking-bootcamp-zero-to-mastery/) on Udemy. This is a beginner friendly course that costs less than a pizza, and contains everything one would need to get their hands dirty with penetration testing. 
@@ -179,7 +182,7 @@ Practice your System Attacks and Network Based Attacks by engaging in Black Box 
 ## Days 91-100:
 
 
-Begin training with the free certification courses for available for the General Public, provided by The [Cybersecurity and Information Security Agency (CISA)](https://www.cisa.gov/) 
+Begin training with the free certification courses available for the General Public, provided by The [Cybersecurity and Information Security Agency (CISA)](https://www.cisa.gov/) 
 
  - Resources
-	 - [CISA General Public Courses](https://www.cisa.gov/)
+	 - [CISA General Public Courses](https://fedvte.usalearning.gov/public_fedvte.php)
