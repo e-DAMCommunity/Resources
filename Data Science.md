@@ -6,7 +6,7 @@
 
 ## Mentor Details:
 
- 1. Name:  **Dusa Sai Krishna (eJPT, CC)**
+ 1. Name:  **Dusa Sai Krishna (Data Analyst)**
  2. E-Mail: [krishna@edam.tech](mailto:krishna@edam.tech)
  3. LinkedIn: [Sai Krishna Dusa](https://www.linkedin.com/in/sai-krishna-dusa/)
  4. Instagram: [saikrishna.dusa](https://www.instagram.com/saikrishna.dusa/)
@@ -89,13 +89,15 @@ Basics-[click Here](https://www.youtube.com/watch?v=F7aPazuS8QY&list=PLmejDGrsgF
 
 Intermediate-[click Here](https://www.youtube.com/watch?v=v2oNWja7M2E&list=PLmejDGrsgFyBCxF37lewZtX6c1kJXyLt3)
 
+# Schedule(Unpaid Courses)
+
 Note: For students who are opting for unpaid resources should match their topic names with the provided schedule or 
 
 - In the case of python-complete 3 videos a day
 - In the case of SQL-Read 3 topics daily and regularly practice
 - In the case of Power Bi- Complete a module within 10 days.
 
-# Schedule
+# Schedule(Paid Courses)
 
 | Day | 1st Hour | 2nd Hour | 3rd Hour |
 | --- | --- | --- | --- |
@@ -107,40 +109,40 @@ Note: For students who are opting for unpaid resources should match their topic 
 | 6 | Python Comparison Operators | Python Statements | SQL statements |
 | 7 | Python Statements | Python Statements | GroupBy |
 | 8 | Python Statements | Python Statements | GroupBy |
-| 9 | Python Statements | Python Statements | Assignment -I |
+| 9 | Python Statements | Python Statements | (SQL paid Course)Assignment -I |
 | 10 | Methods and Functions | Methods and Functions | Joins |
 | 11 | Methods and Functions | Methods and Functions | Joins |
 | 12 | Methods and Functions | Methods and Functions | Joins |
-| 13 | Milestone Project-I | Milestone Project-I | Advanced SQL commands |
-| 14 | Milestone Project-I | Milestone Project-I | Advanced SQL commands |
-| 15 | Milestone Project-I | Milestone Project-I | Assignment II |
-| 16 | Object Oriented Programming | Object Oriented Programming | Assignment II |
-| 17 | Object Oriented Programming | Object Oriented Programming | Assignment II |
-| 18 | Object Oriented Programming | Object Oriented Programming | Assignment II |
+| 13 | (Python paid course)Milestone Project-I | Milestone Project-I(Python paid course)Milestone Project-I | Advanced SQL commands |
+| 14 | (Python paid course)Milestone Project-I | (Python paid course)Milestone Project-I | Advanced SQL commands |
+| 15 | (Python paid course)Milestone Project-I | (Python paid course)Milestone Project-I | (SQL paid Course)Assignment II |
+| 16 | Object Oriented Programming | Object Oriented Programming | (SQL paid Course)Assignment II |
+| 17 | Object Oriented Programming | Object Oriented Programming | (SQL paid Course)Assignment II |
+| 18 | Object Oriented Programming | Object Oriented Programming | (SQL paid Course)Assignment II |
 | 19 | Object Oriented Programming | Object Oriented Programming | Create Tables |
 | 20 | Modules and Packages | Modules and Packages | Create Tables |
 | 21 | Modules and Packages | Modules and Packages | Create Tables |
-| 22 | Exception Handling | Exception Handling | Assignment III |
-| 23 | Exception Handling | Exception Handling | Assignment III |
-| 24 | Exception Handling | Exception Handling | Assignment III |
-| 25 | Milestone II | Milestone II | Assignment III |
-| 26 | Milestone II | Milestone II | Conditional Expressions and Procedures |
-| 27 | Milestone II | Milestone II | Conditional Expressions and Procedures |
-| 28 | Milestone II | Milestone II | —SQL END— |
-| 29 | Milestone II | Milestone II | SQL practice |
+| 22 | Exception Handling | Exception Handling | (SQL paid Course)Assignment III |
+| 23 | Exception Handling | Exception Handling | (SQL paid Course)Assignment III |
+| 24 | Exception Handling | Exception Handling | (SQL paid Course)Assignment III |
+| 25 | (Python paid course)Milestone II | Python paid course)Milestone II | (SQL paid Course)Assignment III |
+| 26 | Python paid course)Milestone II | Python paid course)Milestone II | Conditional Expressions and Procedures |
+| 27 | Python paid course)Milestone II | Python paid course)Milestone II | Conditional Expressions and Procedures |
+| 28 | Python paid course)Milestone II | Python paid course)Milestone II | —SQL END— |
+| 29 | Python paid course)Milestone II | Python paid course)Milestone II | (Hackerrank)SQL practice |
 | 30 | Python Decorators | Python Generators | SQL practice |
-| 31 | Advanced Python modules | Advanced Python modules | SQL practice |
-| 32 | Advanced Python modules | Advanced Python modules | SQL practice |
-| 33 | Advanced Python modules | Advanced Python modules | SQL practice |
-| 34 | Web Scraping | Web Scraping | SQL practice |
-| 35 | Web Scraping | Web Scraping | SQL practice |
-| 36 | Web Scraping | Web Scraping | SQL practice |
-| 37 | Working with Pdf and Spreadsheets | Working with Pdf and Spreadsheets | SQL practice |
-| 38 | Project I | Project I | SQL practice |
-| 39 | Project II | Project II | SQL practice |
-| 40 | Project III | Project III | SQL practice |
-| 41 | Project IV | Project IV | SQL practice |
-| 42 | Project V | Project V | SQL practice |
+| 31 | Advanced Python modules | Advanced Python modules | (Hackerrank)SQL practice |
+| 32 | Advanced Python modules | Advanced Python modules | (Hackerrank)SQL practice |
+| 33 | Advanced Python modules | Advanced Python modules | (Hackerrank)SQL practice |
+| 34 | Web Scraping | Web Scraping | (Hackerrank)SQL practice |
+| 35 | Web Scraping | Web Scraping | (Hackerrank)SQL practice |
+| 36 | Web Scraping | Web Scraping | (Hackerrank)SQL practice |
+| 37 | Working with Pdf and Spreadsheets | Working with Pdf and Spreadsheets | (Hackerrank)SQL practice |
+| 38 | Project I | Project I | (Hackerrank)SQL practice |
+| 39 | Project II | Project II | (Hackerrank)SQL practice |
+| 40 | Project III | Project III | (Hackerrank)SQL practice |
+| 41 | Project IV | Project IV | (Hackerrank)SQL practice |
+| 42 | Project V | Project V | (Hackerrank)SQL practice |
 | 43-49 | BUFFER | BUFFER | BUFFER |
 | 50 | Coding Practice | Power Bi-setup | Excel-1st video |
 | 51 | Coding Practice | Introduction to Power Bi | Excel-1st video |
