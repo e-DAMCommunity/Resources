@@ -6,31 +6,8 @@
 
 ## <h3> Mentors Details </h3>
 <p> Feel Free to contact the mentors if you are in a JAM. </p>
-<li> Name : </li>
-<li> Email ID : </li>
-<li> Contact Number : </li>
-<li> Linkedin : </li>
+<li> Name : Riktha Reddy</li>
+<li> Email ID :riktha@edam.tech </li>
+<li> Linkedin : [Riktha Reddy](https://www.linkedin.com/in/riktha-reddy-024b01221?miniProfileUrn=urn:li:fs_miniProfile:ACoAADfe2twBN1RbxdZrK5GylC7Bkdy4oASnw-A&lipi=urn:li:page:d_flagship3_search_srp_all;ut0xCx8HQaCGvB1SwNfk9g==) </li>
 
-## <h3> Technologies Involved </h3>
-<p> HTML, CSS, JS, _____ </p>
-
-## <h3> Schedule </h3>
-<p> Day 1 - 10 </p>
-    <li> Roadmap : </li>
-    <li> HTML </li>
-    <li> CSS : </li>
-
-<p> Day 1 - 10 </p>
-    <li> Roadmap : </li>
-    <li> HTML </li>
-    <li> CSS : </li>
-
-<p> Day 1 - 10 </p>
-    <li> Roadmap : </li>
-    <li> HTML </li>
-    <li> CSS : </li>
-
-<p> Milestone </p>
-    <li> Roadmap : </li>
-    <li> HTML </li>
-    <li> CSS : </li>
+## You may follow the roadmap by clicking [here](https://www.notion.so/c0621a48ec2f419c8da0e45330c4da3c?v=9afa6cfa74064cc39338890dcb395e0c)
