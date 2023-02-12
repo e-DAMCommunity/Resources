@@ -6,31 +6,13 @@
 
 ## <h3> Mentors Details </h3>
 <p> Feel Free to contact the mentors if you are in a JAM. </p>
-<li> Name : </li>
-<li> Email ID : </li>
-<li> Contact Number : </li>
-<li> Linkedin : </li>
 
-## <h3> Technologies Involved </h3>
-<p> HTML, CSS, JS, _____ </p>
+ - Name: Nishanth Ghosh
+ - Email: nishanth@edam.tech
+ - LinkedIn: [Nishanth Ghosh](https://www.linkedin.com/in/nishant-ghosh-8161871bb?miniProfileUrn=urn:li:fs_miniProfile:ACoAADMa99IB9swaX6z2DdFN9uyJgFd_8Cj5w-4&lipi=urn:li:page:d_flagship3_search_srp_all;G8NqfdW/SDGtgAfx3q7FsA==)
 
-## <h3> Schedule </h3>
-<p> Day 1 - 10 </p>
-    <li> Roadmap : </li>
-    <li> HTML </li>
-    <li> CSS : </li>
+## Introduction To Flutter: [Watch](https://www.youtube.com/watch?v=VPvVD8t02U8) 
 
-<p> Day 1 - 10 </p>
-    <li> Roadmap : </li>
-    <li> HTML </li>
-    <li> CSS : </li>
+ 
 
-<p> Day 1 - 10 </p>
-    <li> Roadmap : </li>
-    <li> HTML </li>
-    <li> CSS : </li>
-
-<p> Milestone </p>
-    <li> Roadmap : </li>
-    <li> HTML </li>
-    <li> CSS : </li>
+## Roadmap To Flutter: [Here](https://roadmap.sh/flutter)
