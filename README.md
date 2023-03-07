@@ -16,6 +16,7 @@
 - 💻 [Front End Development](/FrontEndDev.md)
 - ⚙️ [Back End Development](/BackEndDev.md)
 - 📱 [Application Development - Flutter](/AppDev.md) 
+- 🧠 [Artificial Intelligence and Machine Learning](/AIML.md)
 - 🛡️ [Cybersecurity](/Cybersecurity.md) 
 - 📈 [Digital Marketing](DigitalMarketing.md) 
 - 📈 [Roblox - Game Development](/Roblox.md) 
