@@ -35,7 +35,7 @@ This is an initiation which is for freshers and any person who wishes to learn *
 **NOTE** : Choose one framework and try to learn about it maximum. Then if you're interested you can go with others too.
 
 ## Schedule & Resources
-### <u>*Day 1-4*</u>
+### <u>*Day 1-20*</u>
 ***HTML*** - HTML stands for Hypertext Markup Language and is used to structure content on the web. Uses Tags for creating content in web page.
 
 <img width="320px" height="350px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html">
@@ -64,9 +64,8 @@ This is an initiation which is for freshers and any person who wishes to learn *
 <a href="https://www.w3schools.com/html/">HTML Tutorial by W3 Schools</a>\
 <a href="https://www.learn-html.org/">Interactive HTML Tutorial</a>
 
----
+<br>
 
-### <u>*Day 5-14*</u>
 ***CSS*** - Cascading Style Sheets and is used to style web pages. It is a stylesheet language that is used to style the structure written in HTML. Using HTML Selectors.
 
 <img width="320px" height="350px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css">
@@ -110,9 +109,8 @@ Also,  Use browser's in-built dev tools for more easiness and debugging the code
 
 **NOTE :** Project-based learning is best learning. So, learn while doing projects. When you're starting you can take reference to others work. But later on try yourself and enhance yourself.
 
----
+<br>
 
-### <u>*Day 15-17*</u>
 As of now you have some knowledge of HTML, CSS. Start building ***projects***. Initially you can take video references but later try to make your own projects and show case them with your fellow developers and take inputs from them and try to implement them by your next projects.
 
 ***Some HTML & CSS Projects Ideas:*** 
@@ -124,7 +122,7 @@ As of now you have some knowledge of HTML, CSS. Start building ***projects***. I
 
 ---
 
-### <u>*Day 18-31*</u>
+### <u>*Day 21-40*</u>
 Now, you have basic understanding of how to structure elements in web browser and styling them using HTML & CSS. Now it's time for Javascript (JS).
 
 ***Javascript*** - JavaScript is an object-oriented language that is commonly used in web development to create dynamic and interactive websites. It is often used alongside HTML and CSS to build web pages and web applications. 
@@ -166,22 +164,24 @@ Some of the main features of ES6 include :
 3. Instagram Handles for JS Posts : \
 	<a href="https://www.instagram.com/adil.codes/">Adil | Web Developer</a>
 
----
+<br>
 
-### <u>*Day  32-34*</u>
-Now you will be having a complete understanding of how a website or web app is built. Now, try to built a project using HTML, CSS, JS. There are many cases where you may struct finding errors in your code. But, try fixing them take help of google and latest &nbsp;<a href="https://chat.openai.com/chat">chatGPT</a> .
+Now you will be having a complete understanding of how a website or web app is built. Now, try to built a project using HTML, CSS, JS. There are many cases where you may struct finding errors in your code. But, try fixing them take help of google and latest &nbsp;<a href="https://chat.openai.com/chat">chatGPT</a> . Try to understand and not just copy paste.
 
 ***Here are some project ideas*** : 
-1.  Build a simple static website: Start by building a simple website using HTML and CSS. You can create multiple pages and link them together using anchor tags.
-2.  Build a responsive website: Use CSS media queries to build a website that looks good on different screen sizes.
-3.  Build a to-do list application: Use HTML, CSS, and JavaScript to build a simple to-do list application that allows users to add and remove items from a list.
-4.  Build a calculator: Use HTML, CSS, and JavaScript to build a simple calculator that can perform basic arithmetic operations.
-5.  Build a form validation application: Use JavaScript to build a form validation application that checks whether the user has entered valid data into a form.
-6.  Build a quiz game: Use HTML, CSS, and JavaScript to build a quiz game that allows users to answer questions and get their score at the end.
+ -  Build a simple static website: Start by building a simple website using HTML and CSS. You can create multiple pages and link them together using anchor tags.
+ -  Build a responsive website: Use CSS media queries to build a website that looks good on different screen sizes.
+ -  Build a to-do list application: Use HTML, CSS, and JavaScript to build a simple to-do list application that allows users to add and remove items from a list.
+ -  Build a calculator: Use HTML, CSS, and JavaScript to build a simple calculator that can perform basic arithmetic operations.
+ -  Build a form validation application: Use JavaScript to build a form validation application that checks whether the user has entered valid data into a form.
+ -  Build a quiz game: Use HTML, CSS, and JavaScript to build a quiz game that allows users to answer questions and get their score at the end.
 
----
+**Some Project Sources** :-
 
-### <u>*Day 35-44*</u>
+ - [javascript30.com](https://javascript30.com/) - 30 Days 30 JS Related Projects.
+ - [codedamn.com](https://codedamn.com/) - Literally you can learn any language or tech here. Also they provide cool editors for your own project too.
+
+<br>
 
 ***JS Frameworks*** 
 
@@ -220,7 +220,7 @@ and many....
 
 ---
 
-### <u>*Day 45*</u>
+### <u>*Day 41-50*</u>
 
 Here try to built a project using framework and necessary technologies you learned till now. And try hosting it in any free hosting services like : 
 1. <a href='https://www.netlify.com/'>Netlify</a>
@@ -229,9 +229,7 @@ Here try to built a project using framework and necessary technologies you learn
 **What is Website Hosting ?** \
 *A)*  Website hosting refers to the service that allows a you to post a website or web page onto the Internet. When a website is hosted, it is stored on a special computer called a server, and can be accessed by anyone with an Internet connection.
 
----
-
-### <u>*Day 46-50*</u>
+<br>
 
 ***CSS Frameworks*** 
 
