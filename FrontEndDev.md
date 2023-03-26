@@ -35,7 +35,7 @@ This is an initiation which is for freshers and any person who wishes to learn *
 **NOTE** : Choose one framework and try to learn about it maximum. Then if you're interested you can go with others too.
 
 ## Schedule & Resources
-### <u>*Day 1-20*</u>
+### <u>*Day 1-10*</u>
 ***HTML*** - HTML stands for Hypertext Markup Language and is used to structure content on the web. Uses Tags for creating content in web page.
 
 <img width="320px" height="350px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html">
@@ -66,7 +66,7 @@ This is an initiation which is for freshers and any person who wishes to learn *
 
 <br>
 
-***CSS*** - Cascading Style Sheets and is used to style web pages. It is a stylesheet language that is used to style the structure written in HTML. Using HTML Selectors.
+***Basics of CSS*** - Cascading Style Sheets and is used to style web pages. It is a stylesheet language that is used to style the structure written in HTML. Using HTML Selectors.
 
 <img width="320px" height="350px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css">
 
@@ -76,10 +76,6 @@ This is an initiation which is for freshers and any person who wishes to learn *
 - Selectors : Tags, Id's, Classes, Universal, Pseudo etc...
 - Ways to apply styles, including using external stylesheets, internal stylesheets, and inline styles.
 - CSS Properties : fonts, colors, layout properties like margins, paddings, borders, position, transform and many...
-- Units usage & difference : _px, em, rem, %, vh, vw_.
-- Responsive Layouts and using Media Queries.
-- Using Flexbox and Grid System for 1-D and 2-D Responsive Designs.
-- Animations and Transitions for better visual effects.
 
 **Resources** :
 
@@ -87,14 +83,9 @@ This is an initiation which is for freshers and any person who wishes to learn *
 <a href="https://www.youtube.com/watch?v=G3e-cpL7ofc">HTML & CSS - Begginer to Pro</a>\
 <a href="https://www.youtube.com/watch?v=OXGznpKZ_sA">Latest CSS Tutorial - freecodecamp.org (English)</a>\
 <a href="https://www.youtube.com/watch?v=Edsxf_NBFrw">CSS With Notes - Code with harry (Hindi)</a>\
-<a href="https://www.youtube.com/watch?v=SR5GxoFhIAU">CSS Project - freecodecamp.org (English)</a>\
-<a href="https://www.youtube.com/watch?v=5qVuORLniwM">CSS Flexbox - Code with harry (Hindi)</a>\
-<a href="https://www.youtube.com/watch?v=BNmxUzPRYdw">CSS Grid - Code with harry (Hindi)</a>\
-<a href="https://www.youtube.com/watch?v=tXIhdp5R7sc">CSS Flexbox - freecodecamp.org (English)</a>\
-<a href="https://www.youtube.com/watch?v=Qhaz36TZG5Y">10 Pro Tips of CSS - Fireship</a>
+<a href="https://www.youtube.com/watch?v=SR5GxoFhIAU">CSS Project - freecodecamp.org (English)</a>
 
 2. Other Sources : \
-<a href="https://100dayscss.com/">100dayscss.com</a>\
 <a href="https://freecodecamp.org/">freecodecamp.org</a>\
 <a href="https://cssbattle.dev/">cssbattle.dev</a>
 
@@ -107,10 +98,31 @@ This is an initiation which is for freshers and any person who wishes to learn *
 
 Also,  Use browser's in-built dev tools for more easiness and debugging the code and style you have written.
 
+---
+### <u>*Day 11-20*</u>
+
+***Advance CSS Concepts*** - Advanced topics in CSS covers about Responsive Layouts, Animations, Transitions and many more which are really usefull in developing a better UI to your next website.
+
+**Must Known** :
+
+- Units usage & difference : _px, em, rem, %, vh, vw_.
+- Responsive Layouts and using Media Queries.
+- Using Flexbox and Grid System for 1-D and 2-D Responsive Designs.
+- Animations and Transitions for better visual effects.
+
+**Resources** :
+
+1. Videos :
+<a href="https://www.youtube.com/watch?v=5qVuORLniwM">CSS Flexbox - Code with harry (Hindi)</a>\
+<a href="https://www.youtube.com/watch?v=BNmxUzPRYdw">CSS Grid - Code with harry (Hindi)</a>\
+<a href="https://www.youtube.com/watch?v=tXIhdp5R7sc">CSS Flexbox - freecodecamp.org (English)</a>\
+<a href="https://www.youtube.com/watch?v=Qhaz36TZG5Y">10 Pro Tips of CSS - Fireship</a>
+
+2. Websites
+<a href="https://100dayscss.com/">100dayscss.com</a>
+
 **NOTE :** Project-based learning is best learning. So, learn while doing projects. When you're starting you can take reference to others work. But later on try yourself and enhance yourself.
-
 <br>
-
 As of now you have some knowledge of HTML, CSS. Start building ***projects***. Initially you can take video references but later try to make your own projects and show case them with your fellow developers and take inputs from them and try to implement them by your next projects.
 
 ***Some HTML & CSS Projects Ideas:*** 
@@ -122,7 +134,7 @@ As of now you have some knowledge of HTML, CSS. Start building ***projects***. I
 
 ---
 
-### <u>*Day 21-40*</u>
+### <u>*Day 21-30*</u>
 Now, you have basic understanding of how to structure elements in web browser and styling them using HTML & CSS. Now it's time for Javascript (JS).
 
 ***Javascript*** - JavaScript is an object-oriented language that is commonly used in web development to create dynamic and interactive websites. It is often used alongside HTML and CSS to build web pages and web applications. 
@@ -162,7 +174,7 @@ Some of the main features of ES6 include :
 	<a href="https://www.w3schools.com/js/">JS Tutorial - W3 Schools</a>
 
 3. Instagram Handles for JS Posts : \
-	<a href="https://www.instagram.com/adil.codes/">Adil | Web Developer</a>
+<a href="https://www.instagram.com/adil.codes/">Adil | Web Developer</a>
 
 <br>
 
@@ -181,9 +193,11 @@ Now you will be having a complete understanding of how a website or web app is b
  - [javascript30.com](https://javascript30.com/) - 30 Days 30 JS Related Projects.
  - [codedamn.com](https://codedamn.com/) - Literally you can learn any language or tech here. Also they provide cool editors for your own project too.
 
-<br>
+---
 
-***JS Frameworks*** 
+### <u>*Day 31-40*</u>
+
+***Javascript Frontend Frameworks*** -
 
 **Why learning Frameworks ?** \
 *A)* Learning a front-end JavaScript framework can be a valuable investment for anyone who is interested in building web applications. It can help you build better applications more efficiently, and it can also provide opportunities & professional development.
@@ -262,3 +276,4 @@ Don't try to remember codes, styles, tags etc. There is no need of remembering t
 	<div><b>Backend Web Development Complete Roadmap : </b></div>
 	<a href="https://github.com/e-DAMCommunity/Resources/blob/main/BackEndDev.md">Backend Web Development RoadMap</a>
 </div>
+
