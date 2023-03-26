@@ -9,153 +9,204 @@
 ## Mentor Details
 **Name** : _A. Pranav Teja_ , Roblox Game Developer.\
 **Phone Number** : 6302897148\
-**Discord Contact** : LordAlpha#0001\
+**Discord Contact** : LordAlpha#0084\
 **Email Contact** : <a href="mailto:pranavteja84@gmail.com" target="_blank">Email</a>
+	
+<img width="320px" height="108px" src="https://images.rbxcdn.com/d82801b936c26e174c4e782510a72d78-roblox_logo_dark_08292022.svg" alt="html">
 
 ## What you will be using
-
+	
 - **_Luau_** is needed for scripting in Roblox.
 - Roblox Studio is where we make our games its the game engine roblox uses.
 
 ## Schedule & Resources
-### <u>*Day 1-3 Getting Into Roblox Studio*</u>
+### <u>*Day 1-10 Getting Started with Roblox Studio*</u>
 ***Luau*** - Is the language roblox uses for its games and you write the code for them in that language its derived from Lua and is similar to C# and JavaScript.
 
-<img width="320px" height="108px" src="https://images.rbxcdn.com/d82801b936c26e174c4e782510a72d78-roblox_logo_dark_08292022.svg" alt="html">
+<img width="800px" height="450px" src="https://prod.docsiteassets.roblox.com/assets/studio/general/Studio-Splash.jpg" alt="html">
 
-**Resource Videos** : \
-<a href="https://www.youtube.com/watch?v=BfLUt3mfJiY&list=PLsbxI7NIoTth8CE_os8sog72YTMLPhDSf">1. Basics of the Game Engine and Scripting </a>\
-<a href="https://www.youtube.com/watch?v=_K7stCkqFBY&list=PLsbxI7NIoTth8CE_os8sog72YTMLPhDSf&index=2">2. Knowing More about Scripting in Roblox </a>\
-<a href="https://www.youtube.com/watch?v=jugxDNrrdRY&list=PLsbxI7NIoTth8CE_os8sog72YTMLPhDSf&index=3">3. Making a simple game from what we learned </a>
+**What you will be Learning** : 
+- Install Roblox Studio
+- Overview of Roblox Studio
+- Overview of the Roblox Studio interface 
+- Basic concepts of building in Roblox Studio 
+- Introduction to Lua programming language 
+- Basic scripting concepts in Roblox Studio
+
+**Resources** :
+- <a href="https://create.roblox.com/docs/getting-started/setting-up-roblox-studio">Installing Roblox Studio</a>
+- <a href="https://create.roblox.com/docs/getting-started"> Roblox Starter Guide </a>
+- <a href="https://create.roblox.com/docs/getting-started/introduction-to-roblox-studio"> Roblox Studio Quick Start Guide </a>
+- <a href="https://create.roblox.com/docs/tutorials/scripting/basic-scripting/intro-to-scripting"> Roblox Scripting Tutorials </a>
+- <a href="https://www.lua.org/manual/5.4/"> Lua Programmung Language Documentation </a>
 
 ---
-
-### <u>*Day 4 - 10*</u>
-<img width="300px" height="300px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Luau_Logo_%28Programming_Language%29.svg/2048px-Luau_Logo_%28Programming_Language%29.svg.png" alt="css">
-
-You will be learning more about scripting in roblox studio and Luau
-
-**Videos** : \
-<a href="https://www.youtube.com/watch?v=ivqeeFwcixg&list=PLsbxI7NIoTth8CE_os8sog72YTMLPhDSf&index=5">1. Learning About the Instance Class</a>\
-<a href="https://www.youtube.com/watch?v=1G2yXTxYM-8&list=PLsbxI7NIoTth8CE_os8sog72YTMLPhDSf&index=6">2. Learning About Functions</a>\
-<a href="https://www.youtube.com/watch?v=bkp3OBs0oV0&list=PLsbxI7NIoTth8CE_os8sog72YTMLPhDSf&index=7">3. Learning About Functions 2</a>\
-<a href="https://www.youtube.com/watch?v=CrqSDVXaDhc&list=PLsbxI7NIoTth8CE_os8sog72YTMLPhDSf&index=8">4. Using Return Statement</a>\
-<a href="https://www.youtube.com/watch?v=Z1YjUcAYy7w&list=PLsbxI7NIoTth8CE_os8sog72YTMLPhDSf&index=9">5. Learning Aboout Built In Functions in Roblox Studio</a>
-
+	
+### <u>*Day 11-20 Building in Roblox Studio*</u>
+	
+<img width="600px" height="300px" src="https://prod.docsiteassets.roblox.com/assets/lighting-and-effects/atmosphere/Density-A.jpg" alt="html">
+	
+**What you will be Learning** : 
+- Create a Basic Game
+- Building Terrain
+- Creating an Manipulating Parts
+- Learning the Move, Scale and Rotate Tools
+- Creating and Applying materials
+	
 **Resources** : \
-<a href="https://create.roblox.com/docs/scripting/luau/functions">Guide about Functions</a>\
-<a href="https://create.roblox.com/docs/reference/engine/globals/RobloxGlobals">Built In Functions and Globals</a>
-
+	 **Terrain** :\
+	 - Terrain allows you to generate and sculpt detailed and realistic terrain environments, such as mountains, pools of water, or a flat desert.\
+	 - <a href="https://create.roblox.com/docs/building-and-visuals/studio-modeling/terrain">Learning about Terrain</a>\
+	 - <a href="https://create.roblox.com/docs/studio/terrain-editor">Terrain Editor</a>\
+	 - <a href="https://create.roblox.com/docs/tutorials/building/modeling/sculpting-terrain">Sculpting Terrain</a>\
+	 - <a href="https://create.roblox.com/docs/education/build-it-play-it-create-and-destroy/terrain-tools">Terrain Tools</a>\
+	**Part** :\
+	 - A Part is Roblox's primary building block. You can move, resize, rotate, and set many properties to affect a part's appearance and behavior.\
+	 - <a href="https://create.roblox.com/docs/building-and-visuals/studio-modeling/parts#part-types">Learning about Parts</a>\
+	**Materials**:\
+	 - <a href="https://create.roblox.com/docs/building-and-visuals/studio-modeling/materials">Learning about Materials and how to use them</a>
+	
 ---
 
-### <u>*Day 10 - 15*</u>
+### <u>*Day 21-30 Advanced Building in Roblox Studio*</u>
+	
+<img width="450px" height="275px" src="https://prod.docsiteassets.roblox.com/assets/modeling/solid-modeling/Separate-Parts.jpg" alt="html">
+	
+**What you will be Learning** : 
+- Creating complex objects with unions and negations
+- Creating and using models in Roblox Studio
 
-**Videos** : \
-<a href="https://www.youtube.com/watch?v=cRu1EbcsJiQ&list=PLsbxI7NIoTth8CE_os8sog72YTMLPhDSf&index=10">1. Learning About Events for Classes</a>\
-<a href="https://www.youtube.com/watch?v=qh7lyBRma6Q&list=PLsbxI7NIoTth8CE_os8sog72YTMLPhDSf&index=11">2. What are if statements? </a>\
-<a href="https://www.youtube.com/watch?v=6-Q6fnRugiQ&list=PLsbxI7NIoTth8CE_os8sog72YTMLPhDSf&index=12">3. Using elseif and embedded if statements </a>\
-<a href="https://www.youtube.com/watch?v=pFGBaPtjDbs&list=PLsbxI7NIoTth8CE_os8sog72YTMLPhDSf&index=13">4. What are Relational/Conditional Operators? </a>
+**Resources**:
+- <a href="https://create.roblox.com/docs/building-and-visuals/studio-modeling/solid-modeling">Learning to create Complex Objects with Unions and Negations</a>
+- <a href="https://create.roblox.com/docs/building-and-visuals/studio-modeling/model-objects">Learn to create Models</a>
+	
+---
+	
+### <u>*Day 31-40 Scripting Basics in Roblox Studio*</u>
+	
+<img width="300px" height="300px" src="https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/c/5/a/c5acf1685bdf34d1d721c0c5ec8fc3c4e8c80b03.png" alt="html">
 
-**Resources** : \
-<a href="https://create.roblox.com/docs/scripting/events/using-events">Documentation about Events</a>\
-<a href="https://create.roblox.com/docs/education/coding-3/intro-to-if-statements">Guide for using if statements</a>\
-<a href="https://create.roblox.com/docs/education/coding-3/multiple-conditions">Guide for using elseif stamenets</a>\
-<a href="https://create.roblox.com/docs/scripting/luau/booleans">Guide for Conditional Operators</a>
+**What you will be Learning** : 
+- Variables and data types in Lua
+- Operators in Lua
+- Conditional statements in Lua
+- Loops in Lua
+- Functions in Lua
+
+**Resources** :
+- <a href="https://create.roblox.com/docs/scripting/luau/variables">Learn about Variables and Data Types</a>
+- <a href="https://create.roblox.com/docs/scripting/luau/operators">Learn about Operators</a>
+- <a href="https://create.roblox.com/docs/scripting/luau/control-structures#if-statements">Learn about Conditional Statements</a>
+- <a href="https://create.roblox.com/docs/scripting/luau/control-structures#while-loops">Learn about Loops</a>
+- <a href="https://create.roblox.com/docs/scripting/luau/functions">Learn about Functions</a>
+	
+---
+	
+### <u>*Day 41-50 Intermediate Scripting in Roblox Studio*</u>
+	
+**What you will be Learning** : 
+- Tables and arrays
+- Strings
+- Advanced usage of Functions
+- Debugging in Roblox Studio
+
+**Resources** : 
+- <a href="https://create.roblox.com/docs/scripting/luau/tables">Tables and Arrays</a>
+- <a href="https://create.roblox.com/docs/scripting/luau/strings">Strings</a>
+- <a href="https://create.roblox.com/docs/scripting/luau/functions#function-techniques">Advanced Usage of Functions</a>
+- <a href="https://create.roblox.com/docs/studio/debugging">Debugging</a>
+	
+---
+	
+### <u>*Day 51-60 User Interface and GUI*</u>
+	
+<img width="800px" height="360px" src="https://prod.docsiteassets.roblox.com/assets/ui/container-frames/Frame-Example.jpg" alt="html">
+	
+**What you will be Learning** : 
+- Introduction to User Interface in Roblox Studio
+- Using GUI elements such as Frames, TextLabels, TextBoxes, Buttons
+- Events and event handling in Roblox Studio
+- Customizing User Interface elements
+
+**Resources** :
+- <a href="https://create.roblox.com/docs/building-and-visuals/ui">Intoduction to User Interface</a>
+- <a href="https://create.roblox.com/docs/building-and-visuals/ui/frames">Frames for User Interface</a>
+- <a href="https://create.roblox.com/docs/building-and-visuals/ui/labels">Labels for User Inrerface</a>
+- <a href="https://create.roblox.com/docs/building-and-visuals/ui/buttons-and-text-input">Buttons for User Interface</a>
+- <a href="https://create.roblox.com/docs/building-and-visuals/ui/ui-layout-and-appearance">UI Layout Appearance</a>
+	
+---
+	
+### <u>*Day 61-70 Advanced Scripting Concepts*</u>
+	
+<img width="700px" height="355px" src="https://prod.docsiteassets.roblox.com/assets/scripting/client-server/Remote-Flow-Server-Client.png" alt="html">
+
+**What you will be Learning** : 
+- Modules in Lua
+- Object-Oriented Programming in Lua
+- Using RemoteFunction and RemoteEvent in Roblox Studio
+	
+**Resources** :
+- <a href="https://create.roblox.com/docs/scripting/scripts/modulescripts">Module Scripts</a>
+- <a href="https://devforum.roblox.com/t/all-about-object-oriented-programming/8585">Object Oriented Programming</a>
+- <a href="https://create.roblox.com/docs/scripting/events/remote-events-and-functions">Remote Events and Functions</a>
+	
+---
+	
+### <u>*Day 71-80 Multiplayer Game Development*</u>
+	
+<img width="600px" height="300px" src="https://prod.docsiteassets.roblox.com/assets/scripting/client-server/Client-Server-Model.png" alt="html">
+	
+**What you will be Learning** : 
+- Creating a Multiplayer game in Roblox Studio
+- Understanding the Client-Server Model
+- Using Events to communicate between Client and Server
+	
+**Resources** : 
+- <a href="https://create.roblox.com/docs/scripting/networking/client-server-model">Client to Server Model</a>
+- <a href="https://create.roblox.com/docs/scripting/events/using-events">Using Events</a>
+- <a href="https://create.roblox.com/docs/scripting/events/bindable-events-and-functions">Bindable Events and Functions</a>
+- <a href="https://create.roblox.com/docs/scripting/events/remote-events-and-functions">Remote Events and Fucntions</a>
 
 ---
-
-### <u>*Day 15 - 20*</u>
-**Videos** : \
-<a href="https://www.youtube.com/watch?v=TVb5c_lLR38&list=PLsbxI7NIoTth8CE_os8sog72YTMLPhDSf&index=14">1. Learning about values </a>\
-<a href="https://www.youtube.com/watch?v=oCcPKNr3R6Q&list=PLsbxI7NIoTth8CE_os8sog72YTMLPhDSf&index=15">2. Learning about While loops </a>\
-<a href="https://www.youtube.com/watch?v=4it-gbXldn8&list=PLsbxI7NIoTth8CE_os8sog72YTMLPhDSf&index=17">3. What are tables? </a>\
-<a href="https://www.youtube.com/watch?v=1ZAoVu9chN4&list=PLsbxI7NIoTth8CE_os8sog72YTMLPhDSf&index=18">4. Learning about In Pairs Loops </a>
-
-
-**Resources** : \
-<a href="https://create.roblox.com/docs/reference/engine/classes/IntValue">Guide for IntValue</a>\
-<a href="https://create.roblox.com/docs/education/coding-4/repeating-code-with-while-loops">Guide for using while loops</a>\
-<a href="https://create.roblox.com/docs/reference/engine/libraries/table">Documentation about table class</a>\
-<a href="https://create.roblox.com/docs/education/coding-5/pairs-and-ipairs">Guide for In Pairs Loops</a>
-
+	
+### <u>*Day 81-90 Scripting for Game Mechanics*</u>
+	
+<img width="600px" height="350px" src="https://prod.docsiteassets.roblox.com/assets/mechanics/pathfinding/Path-Start-End.jpg" alt="html">
+	
+**What you will be Learning** : 
+- Using Raycasting for aiming and shooting
+- Creating Artificial Intelligence for NPC
+- Creating Health and Damage system
+- Advanced Physics concepts
+	
+**Resources** :
+- <a href="https://create.roblox.com/docs/tutorials/scripting/intermediate-scripting/hit-detection-with-lasers">Using Raycasting for aiming and shooting</a>
+- <a href="https://create.roblox.com/docs/tutorials/scripting/intermediate-scripting/creating-a-health-pickup">Health and Damage System</a>
+- <a href="https://create.roblox.com/docs/mechanics/pathfinding">Roblox AI Pathfinding</a>
+- <a href="https://create.roblox.com/docs/building-and-visuals/physics">Roblox Physics</a>
+	
 ---
 
-### <u>*Day 20 - 25*</u>
+### <u>*Day 91-100 Publishing and Monetization*</u>
+	
+<img width="700px" height="230px" src="https://prod.docsiteassets.roblox.com/assets/publishing/experiences-places-assets/Experience-Hierarchy.png" alt="html">
+<img width="700px" height="300px" src="https://prod.docsiteassets.roblox.com/assets/monetization/game-passes/Passes-Listing.png" alt="html">
 
-**Videos** : \
-<a href="https://www.youtube.com/watch?v=jOFrwMkl8LI&list=PLsbxI7NIoTth8CE_os8sog72YTMLPhDSf&index=19">1. Learning About Services used in Roblox Studio</a> \
-<a href="https://www.youtube.com/watch?v=wBp_0SntPV0&list=PLsbxI7NIoTth8CE_os8sog72YTMLPhDSf&index=20">2. Learning About For Loops</a> \
-<a href="https://www.youtube.com/watch?v=RjAp3iH_I4Y&list=PLsbxI7NIoTth8CE_os8sog72YTMLPhDSf&index=21">3. Breaking Loops</a>
+**What you will be Learning** : 
+- Publishing your game to Roblox
+- Monetizing your game through Robux
+- Game Analytics and Metrics
+- Marketing your game on Roblox
+	
+**Resources** :
+- <a href="https://create.roblox.com/docs/production/publishing/publishing-experiences-and-places">Publishing Games</a>
+- <a href="https://create.roblox.com/docs/production/monetization">Game Monetization</a>
+- <a href="https://create.roblox.com/docs/production/analytics/analytics-dashboard">Game Analytics</a>
+- <a href="https://create.roblox.com/docs/production/analytics/developer-statistics">Developer Statistics</a>
+- <a href="https://create.roblox.com/docs/production/promotion">Markting your Game</a>
 
-**Resources** : \
-<a href="https://create.roblox.com/docs/reference/engine/classes/ServiceProvider#GetService">Usage of GetService</a> \
-<a href="https://create.roblox.com/docs/education/coding-4/intro-to-for-loops">Intro to for loops</a>
-
-
----
-
-### <u>*Day 25 - 30*</u>
-
-**Videos** : \
-<a href="https://www.youtube.com/watch?v=4yeeGnEBzFY&list=PLhieaQmOk7nK9ob348Yc_PTcIyHjDCnem">Basic Introduction to Roblox GUI</a>
-
-**Learning about UI Instances** : \
-<a href="https://www.youtube.com/watch?v=IFAVIFAHAxY&list=PLhieaQmOk7nK9ob348Yc_PTcIyHjDCnem&index=2">1. Learning about TextButton</a> \
-<a href="https://www.youtube.com/watch?v=LrssS0105Z8&list=PLhieaQmOk7nK9ob348Yc_PTcIyHjDCnem&index=4">2. Learning about ImageLabel and ImageButton </a> \
-<a href="https://www.youtube.com/watch?v=TWekIGBhx70&list=PLhieaQmOk7nK9ob348Yc_PTcIyHjDCnem&index=6">3. Learning about Constrains and Layouts</a> \
-<a href="https://www.youtube.com/watch?v=0bPQsjQQqOo&list=PLhieaQmOk7nK9ob348Yc_PTcIyHjDCnem&index=7">4. Learning about Scrolling Frames</a> \
-<a href="https://www.youtube.com/watch?v=W-vzIohhWr4&list=PLhieaQmOk7nK9ob348Yc_PTcIyHjDCnem&index=5">5. Animating GUI</a>
-
-**Resources** : \
-<a href="https://create.roblox.com/docs/reference/engine/classes/TextLabel">Documentation for TextLabel</a> \
-<a href="https://create.roblox.com/docs/reference/engine/classes/TextButton"> Documentation for TextButton</a> \
-<a href="https://create.roblox.com/docs/reference/engine/classes/ImageLabel">Documentation for ImageLabel</a> \
-<a href="https://create.roblox.com/docs/reference/engine/classes/ImageButton">Documentation for ImageButton</a> \
-<a href="https://create.roblox.com/docs/reference/engine/classes/Frame">Documentation for Frame</a> \
-<a href="https://create.roblox.com/docs/reference/engine/classes/TweenService">API for TweenService</a> 
-
----
-
-### <u>*Day 30 - 35*</u>
-
-**Videos** : \
-<a href="https://www.youtube.com/watch?v=tT9gyw9127Y">1. Learning about Module Scripts</a> \
-<a href="https://www.youtube.com/watch?v=DkYupSBUpes">2. Learning about Data Stores</a> \
-<a href="https://www.youtube.com/watch?v=vujSeb6X2bE">3. Learning about UserInputService</a> 
-
-**Resources** : \
-<a href="https://create.roblox.com/docs/education/coding-6/intro-to-module-scripts">Intro to Module Scripts</a> \
-<a href="https://create.roblox.com/docs/reference/engine/classes/ModuleScript">Documentation for Module Script</a> \
-<a href="https://create.roblox.com/docs/scripting/data/data-stores">Documentation about Data Stores</a> \
-<a href="https://create.roblox.com/docs/reference/engine/classes/UserInputService">API for UserInputService</a> 
-
----
-
-### <u>*Day 35 - 40*</u>
-
-**Videos** : \
-<a href="https://www.youtube.com/watch?v=GwhPXyYKkwU">1. Intro to Remote Events and Remote Functions</a> \
-<a href="https://www.youtube.com/watch?v=uitlTIET7EA">2. Intro to IsA</a>
-
-**Resources** : \
-<a href="https://create.roblox.com/docs/scripting/events/remote-events-and-functions">Documentation for Remote Events and Remote Functions</a> \
-<a href="https://create.roblox.com/docs/reference/engine/classes/Instance#IsA">Documentation about IsA</a>
-
-### <u>*Day 40 - 50*</u>
-
-- Now with what we learned from the tutorials we will be making use of them and learn to create systems\features for our games.
-
-<a href="https://www.youtube.com/watch?v=pu7Dmu5-Q4k">1. Creating a Shop GUI</a> \
-<img width="336px" height="188px" src="https://i.ytimg.com/vi/pu7Dmu5-Q4k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBaV7VhmNxKPy5fXZ2LcOQ2F2wkHQ" alt="html">
-
-<a href="https://www.youtube.com/watch?v=0UhMpxxRFyc&list=PLsbxI7NIoTtg_T5zhlF-AX5d1ut_OK7sa">2. Making a Simulator Game</a> \
-<img width="480px" height="270px" src="https://i.ytimg.com/vi/0UhMpxxRFyc/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCzRKbRF8bf8Qt885C0Bu70UJvw0w" alt="html">
-
-<a href="https://www.youtube.com/watch?v=vCpl5M_9mcQ&list=PLsbxI7NIoTthI4KAXPMls60gwVkJbDEl1">3. Creating a Sword fighting Game</a> \
-<img width="480px" height="270px" src="https://i.ytimg.com/vi/vCpl5M_9mcQ/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBAanqYc7iKrKEhJctGj0qSfAm0PQ" alt="html">
-
----
-
+	
 **_Remember :_**
 
 This is just a detailed roadmap we provided.\
