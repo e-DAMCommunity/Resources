@@ -7,10 +7,10 @@
 
 ## Mentor Details:
 
- <!-- 1. Name:  **Vishnu Nadella**
- 2. E-Mail: [vishnua@edam.tech](mailto:vishnu@edam.tech)
- 3. LinkedIn: [Sai Krishna Dusa](https://www.linkedin.com/in/vishnu-nadella-007/)
- 4. Instagram: [saikrishna.dusa](https://www.instagram.com/jorj_hudson/) -->
+ 1. Name:  **Vishnu Sai Nadella (SD)**
+ 2. LinkedIn: [Click Here](https://www.linkedin.com/in/vishnu-nadella-007/)
+ 3. GitHub: [Click Here](https://www.github.com/VishnuNadella)
+
 
 # Introduction to Ai / Ml
 Artificial Intelligence (AI) and Machine Learning (ML) are two related fields that involve using computer algorithms to perform tasks that typically require human intelligence.
@@ -21,10 +21,12 @@ ML algorithms use statistical techniques to identify patterns in data and make p
 
 # Road-Map
 
-### Python
-- Youtube: [Click Here](https://www.youtube.com/watch?v=Z1Yd7upQsXY&list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg)
+## (Day 1 - Day 10)
+### Python 
+- Youtube: [Click Here](https://goo.gl/eVauVX)
 - Official Docs: [Click Here](https://www.python.org/doc/)
 
+## (Day 11 - Day 20)
 ### NumPy
 - Youtube: [Click Here](https://www.youtube.com/watch?v=uRsE5WGiKWo)
 
@@ -34,6 +36,7 @@ ML algorithms use statistical techniques to identify patterns in data and make p
 ### Data Wrangling
 - Blog: [Click Here](https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/)
 
+## (Day 21 - Day 30)
 ### Matplotlib
 - Youtube: [Click Here](https://www.youtube.com/watch?v=3Xc3CA655Y4)
 - Docs: [Click Here](https://matplotlib.org/)
@@ -42,6 +45,7 @@ ML algorithms use statistical techniques to identify patterns in data and make p
 - Youtube: [Click Here](https://www.youtube.com/watch?v=hLbVXF70BCE&list=PLjVLYmrlmjGfhqSO3rF4n02rrj9w2Ch2C)
 - Docs: [Click Here](https://seaborn.pydata.org/tutorial.html)
 
+## (Day31 - Day 40)
 ### Statistics (Math for Machine Learning)
 - Matrices : [Click Here](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:matrices)
 - Linear algebra : [Click Here](https://www.khanacademy.org/math/linear-algebra)
@@ -49,7 +53,7 @@ ML algorithms use statistical techniques to identify patterns in data and make p
 - Bayesian inference : [Click Here](https://seeing-theory.brown.edu/bayesian-inference/index.html)
 - Time series analysis : [Click Here](https://www.tableau.com/learn/articles/time-series-analysis)
 
-
+## (Day 41 - Day 50)
 ### Sci-kit learn (Machine Learning)
 <img src = "https://scikit-learn.org/stable/_static/ml_map.png">
 
@@ -67,6 +71,7 @@ Video Tutorial: [Click Here](https://www.youtube.com/watch?v=pqNCD_5r0IU&t=748s)
   - Hierarchical
 - Dimensionality reduction
 
+## (Day 51 - Day 70)
 ### Neural Networks (Deep Learning)
 
 - ANN: [Click Here](https://www.kaggle.com/learn/intro-to-deep-learning)
@@ -76,13 +81,15 @@ Video Tutorial: [Click Here](https://www.youtube.com/watch?v=pqNCD_5r0IU&t=748s)
 - Activation Functions: [Click Here](https://www.mygreatlearning.com/blog/activation-functions/)
 - Pytorch: [Click Here](https://www.udacity.com/course/deep-learning-pytorch--ud188?irclickid=Xf1XoHWb-xyNU2WwauzlbwGNUkAyWkXpOQV2RA0&irgwc=1&utm_source=affiliate&utm_medium=&aff=2406137&utm_term=&utm_campaign=__&utm_content=&adid=786224)
 - Tensorflow: [Click Here](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187?irclickid=Xf1XoHWb-xyNU2WwauzlbwGNUkAyWkXJOQV2RA0&irgwc=1&utm_source=affiliate&utm_medium=&aff=2406137&utm_term=&utm_campaign=__&utm_content=&adid=786224)
+
+## (Day 71 - Day 80)
 ### Deployment:
 - Streamlit: [Click Here](https://streamlit.io/)
 - Fast API: [Click Here](https://fastapi.tiangolo.com/)
 - Deta: [Click Here](https://deta.space/)
 
+## (Day 81 - Day 90)
 ### Extras:
-
 - SQL: [Click Here](https://mode.com/sql-tutorial/)
 - Git and Github: [Click Here](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 
