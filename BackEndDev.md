@@ -1,4 +1,3 @@
-
 <h1 align="center">Hello 👋, We are e-Designing and Marketing </h1>
 
 <h2 align="center"> Backend Web Development </h2>
@@ -36,7 +35,7 @@ Backend Roles are different and has no connection with Frontend Development. Yet
 ---
 
 ## Schedule & Resources
-### <u>*Day 1-2*</u>
+### <u>*Day 1-10*</u>
 ***What is Internet*** - The Internet is a global network of computers connected to each other which communicate through a standardized set of protocols.
 
 *Things to know based on Internet* : 
@@ -60,17 +59,24 @@ Backend Roles are different and has no connection with Frontend Development. Yet
 	<a href="https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/">What is DNS ?</a>\
 	<a href="https://developer.mozilla.org/en-US/docs/Glossary/DNS/">Understanding Domain Names</a>
 
----
+<br>
 
-### <u>*Day 3-20*</u>
-
-***Learning a Programming Language***\
+***Learning basics of Programming Language***\
 Learning a language when you are starting with Backend Web Development helps your website to function along with databases, frameworks, web servers etc...
 
 You can choose any of the languages below mentioned : 
 	1. ***Javascript*** ( *Preffered* - Because if you want to become a Full-stack Developer. You definetly need to learn Frontend Technologies that definetly includes Javascript . You can manage both client and server with single language.)
 	2. ***PHP*** - (PHP is a popular programming language for web development. It is a server-side language, meaning that it is executed on the server and the results are sent to the user's web browser.)
 	3. ***Python, Java, C#, Ruby, Go, Rust***.
+
+***Resources Provided Below.***
+
+---
+
+### <u>*Day 11-20*</u>
+
+***Continue learning of language choosen***\
+Learning a Language is not so easy and it's need practise and consistency. So just continue learning the language you have choosen.
 
 **Resources :**
 1. Videos : \
@@ -93,7 +99,7 @@ You can choose any of the languages below mentioned :
 
 ---
 
-### <u>*Day 21-23*</u>
+### <u>*Day 21-30*</u>
 
 ***Version Control (Git)*** - Git is a version control system that is used to track changes to files, especially when multiple people are working on the same project. It allows developers to work on different parts of a project simultaneously, and then merge their changes back together. Git stores this information in a data structure called a repository.
 
@@ -119,11 +125,9 @@ You can choose any of the languages below mentioned :
 <a href='https://education.github.com/git-cheat-sheet-education.pdf'>Git Cheet Sheet - Commands | Github Education</a>\
 <a href="https://www.youtube.com/watch?v=apGV9Kg7ics">Git & Github | Kunal Khushwaha</a>
 
----
+<br>
 
-### <u>*Day 24-34*</u>
-
-***Learn Web Framework*** - Backend web frameworks are tools that provide a set of libraries and functions that make it easier to build and run web applications. They provide a structure for developing web applications and help to handle the underlying technical details so that you can focus on building the features of your application.
+***Learn Basics of Web Framework*** - Backend web frameworks are tools that provide a set of libraries and functions that make it easier to build and run web applications. They provide a structure for developing web applications and help to handle the underlying technical details so that you can focus on building the features of your application.
 
 **Popular Web Frameworks :**
 
@@ -132,6 +136,15 @@ You can choose any of the languages below mentioned :
 - Laravel (PHP)
 - Spring (Java)
 - Rails (Ruby) and more...
+
+***Resources Provided Below.***
+
+---
+
+### <u>*Day 31-40*</u>
+
+***Continue learning web framework*** 
+Similar to learning any language these frameworks add a extra flavour to these languages by providing simple set of rules, functions, libraries etc. Be patient and work on projects while learning.
 
 **Must Know** : 
 
@@ -151,28 +164,14 @@ You can choose any of the languages below mentioned :
 	<a href="https://www.youtube.com/watch?v=Qr4QMBUPxWo">Flask - freecodecamp.org</a>\
 	<a href="https://www.youtube.com/watch?v=If1Lw4pLLEo">Spring in 90 Minutes - Telusko Learnings</a>
 
----
+<br>
 
-### <u>*Day 35-45*</u>
-
-**Databases and CRUD Operations :**
-
-*Database* - A database is a collection of data that is organized so that it can be easily accessed, managed, and updated. It is a crucial component of many web applications, as it allows the application to store and retrieve data efficiently.
-
-*CRUD* - CRUD stands for ***"create, read, update, and delete,"*** and these are the four functions that a database should be able to perform.
-
-**Create:** This operation is used to add new data to the database.\
-**Read:** This operation is used to retrieve data from the database.\
-**Update:** This operation is used to modify existing data in the database.\
-**Delete:** This operation is used to remove data from the database.
-
-*In a web application, these CRUD operations are typically implemented through a set of API (application programming interface) endpoints that allow the front-end to communicate with the back-end. The back-end will handle the requests from the front-end and perform the appropriate CRUD operation on the database.*
+***Databases*** - A database is a collection of data that is organized so that it can be easily accessed, managed, and updated. It is a crucial component of many web applications, as it allows the application to store and retrieve data efficiently.
 
 ***NOTE :*** Many different types of databases that you can use for a web application, including relational databases (such as MySQL and PostgreSQL) and non-relational databases (such as MongoDB and Cassandra). The choice of database will depend on the needs of your application and the type of data you are storing.
 
 Generally if you work in Javascript then we choose ***MERN*** ( MongoDB, Express, React.js, Node.js ) | ***MEAN*** ( MongoDB, Express, Angular, Nodejs ) | ***MEVN*** ( MongoDB, Express, Vue.js, Nodejs ) Stacks for developing Web Applications.
-\
-\
+
 **Resources :**
 
 <a href="https://www.youtube.com/watch?v=HXV3zeQKqGY">Learn SQL - Intellipath<a/>\
@@ -183,8 +182,22 @@ Generally if you work in Javascript then we choose ***MERN*** ( MongoDB, Express
 
 ---
 
-### <u>*Day 46-50*</u>
+### <u>*Day 41-50*</u>
 
+**CRUD Operations :**
+
+*CRUD* - CRUD stands for ***"create, read, update, and delete,"*** and these are the four functions that a database should be able to perform.
+
+**Create:** This operation is used to add new data to the database.\
+**Read:** This operation is used to retrieve data from the database.\
+**Update:** This operation is used to modify existing data in the database.\
+**Delete:** This operation is used to remove data from the database.
+
+*In a web application, these CRUD operations are typically implemented through a set of API (application programming interface) endpoints that allow the front-end to communicate with the back-end. The back-end will handle the requests from the front-end and perform the appropriate CRUD operation on the database.*
+
+<br>
+
+**Project way of learning :**
 Here you have some knowledge of tech skills needed for building full-stack web apps. Try building some cool projects and show case them. And also try to host your applications in Web Hostings like <a href="https://heroku.com">Heroku</a>
 
 **Project Ideas :**
