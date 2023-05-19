@@ -93,6 +93,21 @@ Video Tutorial: [Click Here](https://www.youtube.com/watch?v=pqNCD_5r0IU&t=748s)
 - SQL: [Click Here](https://mode.com/sql-tutorial/)
 - Git and Github: [Click Here](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 
+### Activation Functions
+
+| Activation Function | Formula | Range | Derivative | Use Cases |
+|---|---|---|---|---|
+| Binary Step | f(x) = {1 if x >= 0, 0 otherwise} | [0, 1] | f(x) = 0 if x < 0, f(x) = 1 if x >= 0 | Binary classification |
+| Linear | f(x) = w * x + b | R | f(x) = w * x + b | Regression |
+| Sigmoid | f(x) = 1 / (1 + exp(-x)) | (0, 1) | f(x) = exp(-x) / (1 + exp(-x))^2 | Binary classification |
+| Tanh | f(x) = (exp(x) - exp(-x)) / (exp(x) + exp(-x)) | (-1, 1) | f(1 - f(x)) | Binary classification |
+| ReLU | f(x) = max(0, x) | R | f(x) = 1 if x >= 0, f(x) = 0 if x < 0 | Regression, classification |
+| Leaky ReLU | f(x) = {0.01x if x < 0, x otherwise} | R | f(x) = 0.01 if x < 0, f(x) = 1 if x >= 0 | Regression, classification |
+| Parametric ReLU | f(x) = {alpha * x if x < 0, x otherwise} | R | f(x) = alpha if x < 0, f(x) = 1 if x >= 0 | Regression, classification |
+| Exponential Linear Unit (ELU) | f(x) = {alpha * (exp(x) - 1) if x < 0, x otherwise} | R | f(x) = alpha * (exp(x) - 1) if x < 0, f(x) = 1 if x >= 0 | Regression, classification |
+| Swish | f(x) = x * sigmoid(x) | R | f(x) = x * (1 / (1 + exp(-x))) | Regression, classification |
+| Softmax | f(x) = exp(x) / sum(exp(x)) | (0, 1) | f(x) = exp(x) / sum(exp(x)) | Multiclass classification |
+
 
 ### Resources
 - Image Annotation: [Click Here](https://www.makesense.ai/)
