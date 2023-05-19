@@ -20,6 +20,7 @@ AI involves creating machines that can perform tasks that normally require human
 ML algorithms use statistical techniques to identify patterns in data and make predictions or decisions based on that data. For example, a ML algorithm can be trained on a dataset of images to identify certain objects, such as cars or trees. The algorithm will learn to recognize the patterns that correspond to those objects and can then apply that knowledge to new images it hasn't seen before.
 
 # Road-Map
+> Note: Please refer to the resources that are mentioned at the end of the file
 
 ## (Day 1 - Day 10)
 ### Python 
