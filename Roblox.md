@@ -38,7 +38,6 @@
 - <a href="https://create.roblox.com/docs/getting-started"> Roblox Starter Guide </a>
 - <a href="https://create.roblox.com/docs/getting-started/introduction-to-roblox-studio"> Roblox Studio Quick Start Guide </a>
 - <a href="https://create.roblox.com/docs/tutorials/scripting/basic-scripting/intro-to-scripting"> Roblox Scripting Tutorials </a>
-- <a href="https://www.lua.org/manual/5.4/"> Lua Programmung Language Documentation </a>
 
 ---
 	
