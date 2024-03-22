@@ -36,6 +36,7 @@ ML algorithms use statistical techniques to identify patterns in data and make p
 
 ### Data Wrangling
 - Blog: [Click Here](https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/)
+- Youtube: [Click Here](https://www.youtube.com/watch?v=gtjxAH8uaP0)
 
 ## (Day 21 - Day 30)
 ### Matplotlib
